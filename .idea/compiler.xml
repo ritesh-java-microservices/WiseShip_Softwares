@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for WiseShipFunctionalProgrammingMicroService" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/4.0.3/spring-boot-configuration-processor-4.0.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="kafka-producer-microService" />
+      </profile>
+      <profile name="Annotation profile for WiseShipRestClientMicroService" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/4.0.3/spring-boot-configuration-processor-4.0.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/4.0.3/spring-boot-configuration-processor-4.0.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="common-general-codes-microService" />
+        <module name="functional-programming-microService" />
+        <module name="back-end-microService" />
+        <module name="api-gateway-microService" />
+        <module name="rest-client-microService" />
+        <module name="software-testing-microService" />
+        <module name="user-microService" />
+        <module name="service-registry-microService" />
+        <module name="kafka-consumer-microService" />
+        <module name="files-documents-databases-microService" />
+        <module name="product-microService" />
+        <module name="client-management-microService" />
+        <module name="payment-microService" />
+        <module name="authorization-server-microService" />
+        <module name="appn-config-server-microService" />
+        <module name="cart-microService" />
+        <module name="order-microService" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway-microService" options="-parameters" />
+      <module name="appn-config-server-microService" options="-parameters" />
+      <module name="authorization-server-microService" options="-parameters" />
+      <module name="back-end-microService" options="-parameters" />
+      <module name="cart-microService" options="-parameters" />
+      <module name="client-management-microService" options="-parameters" />
+      <module name="common-general-codes-microService" options="-parameters" />
+      <module name="files-documents-databases-microService" options="-parameters" />
+      <module name="functional-programming-microService" options="-parameters" />
+      <module name="kafka-consumer-microService" options="-parameters" />
+      <module name="kafka-producer-microService" options="-parameters" />
+      <module name="order-microService" options="-parameters" />
+      <module name="payment-microService" options="-parameters" />
+      <module name="product-microService" options="-parameters" />
+      <module name="rest-client-microService" options="-parameters" />
+      <module name="service-registry-microService" options="-parameters" />
+      <module name="software-testing-microService" options="-parameters" />
+      <module name="user-microService" options="-parameters" />
+    </option>
+  </component>
+</project>

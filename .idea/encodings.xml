@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/wiseship_software_api_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_app_config_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_application_testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_authorization_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_backend_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_cart_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_client_management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_common_general_codes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_files_documents/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_functional_programs_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_kafka_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_kafka_producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_order_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_payment_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_product_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_rest_client_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_service_registry_appn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiseship_software_user_appn/src/main/java" charset="UTF-8" />
+  </component>
+</project>
